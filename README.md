@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./readme-banner.png" alt="Library Management System banner" width="700">
+</p>
+
 <h1 align="center">Library Management System (LMS)</h1>
 
 <p align="center">
@@ -168,7 +172,9 @@ library-management-system/
 │   └── main.cpp
 │
 ├── Makefile
-└── README.md
+├── README.md
+├── readme-banner.png            README banner (book + terminal-cursor logo)
+└── favicon.ico / favicon-*.png   Icon set for the repo, generated from the same logo
 
 # Created at runtime in the working directory:
 books.dat        catalog data
