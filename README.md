@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./readme-banner.png" alt="Library Management System banner" width="700">
+  <img src="./readme-banner.png" alt="Library Management System banner" width="500">
 </p>
 
 <h1 align="center">Library Management System (LMS)</h1>
